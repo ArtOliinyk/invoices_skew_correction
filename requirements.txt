@@ -1,0 +1,7 @@
+pytesseract==0.3.10
+opencv-python==4.8.0.76
+matplotlib==3.7.1
+beautifulsoup4==4.12.2
+numpy==1.23.5
+Pillow==10.0.1
+gradio==3.44.3
